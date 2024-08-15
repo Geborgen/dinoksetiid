@@ -1,5 +1,4 @@
-
-# Nordic Souls
+# Dinoksetiid
 
 ![Banner](https://raw.githubusercontent.com/Geborgen/dinoksetiid/main/.github/DinoksetiidBanner.png)
 
@@ -244,7 +243,7 @@ If you want to add a custom preset, you should familiarize yourself with [Kezyma
 If you do not want to use ENB, disable everything in that separator and keep it toggled off in-game.
 
 > [!TIP]
-> In-game, press `F10` to toggle the FPS counter, `SHIFT+ENTER` to open the ENB configuration menu, `SHIFT+INSERT` to toggle ENB, and `F7` to take a screenshot. These keybinds are the same for all included presets.
+> In-game, press `F10` to toggle the FPS counter, `SHIFT + ENTER` to open the ENB configuration menu, `SHIFT + INSERT` to toggle ENB, and `F7` to take a screenshot. These keybinds are the same for all included presets.
 
 #### Widescreen Support
 
@@ -258,7 +257,7 @@ Enable the `-   Dino - Modern Combat Gamepad Overhaul Tweaked` mod under the `Ga
 
 ### Default Gamepad Bindings
 
-![gamepad](https://raw.githubusercontent.com/Geborgen/dinoksetiid/main/.github/gamepad.png)
+![Gamepad Bindings](https://raw.githubusercontent.com/Geborgen/dinoksetiid/main/.github/gamepad.png)
 
 `DPAD UP` is the modifier, so if a control has an alternate binding, use that modifier to access that binding (e.g. `DPAD UP + X` is quicksave).
 
@@ -316,7 +315,7 @@ Open the installation folder and open `ModOrganizer.exe`. Make sure the dropdown
 
 ### Default Key Bindings
 
-![keyboardmouse](https://raw.githubusercontent.com/Geborgen/dinoksetiid/main/.github/keyboardmouse.png)
+![Key Bindings](https://raw.githubusercontent.com/Geborgen/dinoksetiid/main/.github/keyboardmouse.png)
   
 Any key highlighted in green has `SHIFT` as a modifier (e.g. `SHIFT + ENTER` for the ENB menu).
 
