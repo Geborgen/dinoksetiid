@@ -250,7 +250,7 @@ Enable all mods under the `Widescreen Support` separator.
 
 #### Gamepad Support
 
-Enable the `-   Dino - Modern Combat Gamepad Overhaul Tweaked` mod under the `Gamepad Support` separator.
+Enable the `Dino - Modern Combat Gamepad Overhaul Tweaked` mod under the `Gamepad Support` separator.
 
 <details><summary>Gamepad Bindings (expand)</summary>
 
