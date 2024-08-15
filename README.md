@@ -80,7 +80,7 @@ A more in-depth look at the mods used can be found in the [gameplay guide](https
 
 | Minimum | Recommended |
 |-----|-----|
-| Intel i5-9600K / AMD Ryzen 5 3600 | Intel i5-13400 / AMD Ryzen 5 5600x  |
+| Intel i5-9600K / AMD Ryzen 5 3600 | Intel i5-13400 / AMD Ryzen 5 5600x |
 | NVIDIA GTX 2060 / AMD RX 5700 | NVIDIA RTX 3060 TI / AMD RX 6700 |
 | 16 GB DDR3 | 32 GB DDR4 |
 | SATA SSD | NVMe SSD |
