@@ -40,7 +40,6 @@
   - [Stock Game and Root Builder](#stock-game-and-root-builder)
   - [Antivirus Exceptions](#antivirus-exceptions)
   - [Customizing the List](#customizing-the-list)
-    - [Optional Files](#optional-files)
     - [ENB](#enb)
     - [Widescreen Support](#widescreen-support)
     - [Gamepad Support](#gamepad-support)
@@ -65,7 +64,11 @@
 
 ## Preamble
 
-Dinoksetiid is an extremely stylized, dark fantasy modlist built around the Shattered Skyrim series of mods. Traverse a broken world decimated by the World Eater, and uncover the truth of what really happened. Become a hero of your own making in this post-apocalyptic Skyrim.
+Dinoksetiid is a stylized dark fantasy modlist built around the Shattered Skyrim series of mods. Traverse a broken world decimated by the World Eater, and uncover the truth of what really happened. Become a hero of your own making in this post-apocalyptic Skyrim. The author of the highly acclaimed modlist, [Nordic Souls](https://www.nexusmods.com/skyrimspecialedition/mods/77497), presents an entirely new and unique Skyrim experience.
+
+"Dinoksetiid", meaning "the end of time" in the dragon language, is the perfect name for what this list is: Alduin's legions have destroyed the world. Shattered Skyrim is a mod that empties the province of NPCs and quests, leaving an apocalyptic wasteland. There is a new main quest, which populates the land with draugr and dragons, providing a new challenge.
+
+There are still things to do despite the drastically different landscape. A few other quest mods have been added, in addition to unique bosses and NPCs to keep you busy. Gameplay is difficult, but fair. Take it slowly, read the documentation, good luck, and have fun!
 
 ## List Contents
 
@@ -84,7 +87,7 @@ A more in-depth look at the mods used can be found in the [gameplay guide](https
 
 This list is performance-friendly on almost any modern system. If you're struggling, refer to the [performance section](#performance-tweaks) for more information.
 
-The Dinoksetiid installation requires ~undefined GB of free space, not including the total download size, which is ~undefined GB. Overall, you'll need ~undefined GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which Wabbajack roughly accounts for in the UI. 
+The complete Dinoksetiid installation (including downloads) requires ~114 GB of free space. The total download size is ~41 GB, and the installation size is ~73. GB. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which Wabbajack roughly accounts for in the UI. 
 
 > [!TIP]
 > If the space requirement is uncomfortable, remember that you can delete downloads once the list is successfully installed. You can also set your download location to a different drive than the installation location; more on that later.
@@ -232,18 +235,14 @@ As this may cause some confusion, I should clarify that I'm not against people e
 
 Game settings and mod configs can be found in the `Dino - Game Settings` mod under the `General Settings` separator in MO2. Right-click, open in explorer, and find the config you need, or click `Information...`, click the `INI Files` tab, and find what you need there. *If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.* For example, if you want to change the dodge key, you will need to edit `Dinoksetiid\mods\Dino - Game Settings\SKSE\Plugins\TK Dodge RE.ini`.
 
-#### Optional Files
-
-Under the `Optional Files` separator, you can enable and disable things to your liking:
-
 #### ENB
 
-If you want to add a custom preset, you should familiarize yourself with [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720), and match the way I've installed the presets to MO2.
+Dino uses the incredible  [Dawnfire ENB for Azurite Weathers II](https://www.nexusmods.com/skyrimspecialedition/mods/121155). If you want to add your own preset, you should familiarize yourself with [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720), and match the way I've installed Dawnfire to MO2.
 
-If you do not want to use ENB, disable everything in that separator and keep it toggled off in-game.
+If you do not want to use ENB, keep it toggled off in-game.
 
 > [!TIP]
-> In-game, press `F10` to toggle the FPS counter, `SHIFT + ENTER` to open the ENB configuration menu, `SHIFT + INSERT` to toggle ENB, and `F7` to take a screenshot. These keybinds are the same for all included presets.
+> In-game, press `SHIFT + ENTER` to open the ENB configuration menu, `SHIFT + INSERT` to toggle ENB, `F10` to toggle the FPS counter and `F7` to take a screenshot.
 
 #### Widescreen Support
 
@@ -276,7 +275,7 @@ Dinoksetiid should run fine on almost any machine, but there are some things you
 
 ### BethINI Performance Settings
 
--   First make sure your paths are correct in the  `Setup`  tab: Game path should be  `Nordic Souls\Game Root`  and Mod Organizer should be your Nordic Souls folder. INI path should be  `ModOrganizer > Nordic Souls`.
+-   First make sure your paths are correct in the  `Setup`  tab: Game path should be  `Dinoksetiid\Game Root`  and Mod Organizer should be your Dinoksetiid folder. INI path should be  `ModOrganizer > Dinoksetiid`.
 -   On the  `Basic`  tab, check  `Recommended Tweaks`  and then  `Medium`. Disable  `VSync`. Make sure your monitor's resolution matches.
 -   Set  `Antialiasing`  to  `None`. This can cause weird shimmering in-game, however.
 -   On the  `Detail`  tab, set  `Godrays`  to  `None`. Set  `Particles`  to  `6000`. Disable  `Lens Flare`  and  `Anamorphic Lens Flare`. Set  `Detailed Draw Distance`  to  `2000`  and  `Exterior Draw Distance`  to  `6000`. Disable  `Ambient Occlusion`.
@@ -299,6 +298,13 @@ Thanks to [Elysium Remastered](https://github.com/TitansBane/Elysium-Remastered)
 ### Starting Up
 
 Open the installation folder and open `ModOrganizer.exe`. Make sure the dropdown box on the right is set to `Play Dinoksetiid [SKSE]`, and run it.
+
+It may take longer to launch the first time, but on subsequent launches, ENB will cache and it should not take as long.
+
+If at any subsequent time your game is not loading, or you begin to see strange visual issues, clear your ENB cache and try again.
+
+> [!TIP]
+> To avoid a cluttered overwrite folder, you can drag the contents of overwrite after your first launch (`Root\enbcache`) to the `ENB Screenshots & Cache` mod under the `ENB Files` separator. You can store screenshots there too with the same method.
 
 > [!TIP]
 > You can create a desktop shortcut in the shortcuts dropdown.
