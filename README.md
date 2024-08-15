@@ -263,7 +263,7 @@ Enable the `Dino - Modern Combat Gamepad Overhaul Tweaked` mod under the `Gamepa
 You can press `F11` in-game to access this menu at any time.
 
 Based off of [Modern Combat Gamepad Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/123409).
-  
+
 </details>
 
 #### Performance Tweaks
@@ -322,11 +322,11 @@ If at any subsequent time your game is not loading, or you begin to see strange 
 ### Default Key Bindings
 
 ![Key Bindings](https://raw.githubusercontent.com/Geborgen/dinoksetiid/main/.github/keyboardmouse.png)
-  
+
 Any key highlighted in green has `SHIFT` as a modifier (e.g. `SHIFT + ENTER` for the ENB menu).
 
 You can press `F11` in-game to access this menu at any time.
-  
+
 </details>
 
 Refer to [this section](#gamepad-support) for gamepad setup and controls.
@@ -337,7 +337,7 @@ MCMs have been pre-configured. Wait until you receive a "configuration complete"
 
 ### Starting the Game
 
-After creating your character, you will spawn in a cave. **Wait until you see a "configuration complete" pop-up** before continuing. Then, you should select your starting skills with the perks provided. Please refer to the getting started portion of the gameplay guide for more information.
+After creating your character, you will spawn in a cave. **Wait until you see a "configuration complete" pop-up** before continuing. Then, you should select your starting skills with the perks provided. Please refer to the [getting started](https://github.com/Geborgen/dinoksetiid/blob/main/GAMEPLAYGUIDE.md#getting-started) portion of the gameplay guide for more information.
 
 ### Gameplay Guide
 
