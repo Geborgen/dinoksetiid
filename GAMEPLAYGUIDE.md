@@ -45,7 +45,7 @@ Above are the default controls for keyboard, mouse, and gamepad. Key bindings hi
 
 ## Core Gameplay
 
-Dino's gameplay is focused around [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352) paired with MCO and [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751), providing a difficult yet fair overhaul to the game's mechanics.
+Dino's gameplay is focused around [Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/72352) paired with [MCO](https://www.distaranimation.com/mods/attack) and [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751), providing a difficult yet fair overhaul to the game's mechanics.
 
 ### Perks
 
