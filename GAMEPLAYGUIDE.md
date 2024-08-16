@@ -157,6 +157,8 @@ To your right you will see a chest with some starting items, and to your right i
 
 Do not go to Falkreath, despite the quest's direction. You will die. Instead, you should head to Oakwood by Lake Ilinalta and get situated. From there, I recommend going down the path to Riverwood (be wary of wraiths, I recommend luring them back to Oakwood to have the guards deal with them). In Riverwood, you can find a book on Alvor's mantle that will lead you to a unique follower. Be careful though, you will encounter a unique boss.
 
+You can also find hidden chests throughout the world containing loot that will give you an edge. If you want to make a detour before or after heading to Oakwood, you can visit Helgen where several of these chests are located.
+
 You should focus on gearing up, getting stronger, and exploring. There are six new settlements you can find ([Wynstead](https://www.nexusmods.com/skyrimspecialedition/mods/50640), [Harold Hold](https://www.nexusmods.com/skyrimspecialedition/mods/65552), [Jarnborg](https://www.nexusmods.com/skyrimspecialedition/mods/67992), [Reich Corigate](https://www.nexusmods.com/skyrimspecialedition/mods/58214), [Dunpar Wall](https://www.nexusmods.com/skyrimspecialedition/mods/60728), and [Oakwood](https://www.nexusmods.com/skyrimspecialedition/mods/61007)) that have merchants, inns, and general amenities.
 
 From there, you can continue the main quest, or check out the added content listed earlier in this document. There's not a lot of direction, it's very open ended.
