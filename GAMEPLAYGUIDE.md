@@ -34,7 +34,7 @@
 
 Dinoksetiid is built around [Shattered](https://www.nexusmods.com/skyrimspecialedition/mods/84320), meaning the world is empty. No quests, NPCs, life. Instead, through the [World Eater](https://www.nexusmods.com/skyrimspecialedition/mods/85133) mod, a new main quest is added and the world is populated with draugr. Your task is to purge the evil things from the province and discover what happened, why the world is dead.
 
-In a way, this list is a zombie survival game, as you will at times find yourself fighting hoards of enemies. At other times, it will feel much more "souls" inspired, with the unique bosses you can fight and gear you can find. Elden Ring was a massive inspiration for this list both aesthetically and gameplay-wise, but it is not a "souls" clone.
+In a way, this list is a zombie survival game, as you will at times find yourself fighting hordes of enemies. At other times, it will feel much more "souls" inspired, with the unique bosses you can fight and gear you can find. Elden Ring was a massive inspiration for this list both aesthetically and gameplay-wise, but it is not a "souls" clone.
 
 ## Controls
 
