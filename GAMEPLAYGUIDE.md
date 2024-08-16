@@ -12,9 +12,6 @@
   <a href="https://github.com/Geborgen/dinoksetiid/blob/main/FAQ.md">FAQ</a>
 </p>
 
-> [!IMPORTANT] 
-> Dino's gameplay is quite unique, and may be hard to understand from the get-go. This document attempts to break down everything, with links to mod pages for further reading. Please read this document completely so you know what you're getting into.
-
 ## Contents
 - [What is Dinoksetiid?](#what-is-dinoksetiid)
 - [Controls](#controls)
@@ -30,6 +27,8 @@
 - [Enemies and NPCs](#enemies-and-npcs)
 - [Getting Started](#getting-started)
 
+> [!IMPORTANT] 
+> Dino's gameplay is quite unique, and may be hard to understand from the get-go. This document attempts to break down everything, with links to mod pages for further reading. Please read this document completely so you know what you're getting into.
 
 ## What is Dinoksetiid?
 
