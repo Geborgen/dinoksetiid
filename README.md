@@ -246,7 +246,7 @@ If you do not want to use ENB, keep it toggled off in-game.
 
 #### Widescreen Support
 
-Enable all mods under the `Widescreen Support` separator.
+Enable mods under the `Widescreen Support` separator.
 
 #### Gamepad Support
 
