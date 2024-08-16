@@ -87,7 +87,7 @@ A more in-depth look at the mods used can be found in the [gameplay guide](https
 
 This list is performance-friendly on almost any modern system. If you're struggling, refer to the [performance section](#performance-tweaks) for more information.
 
-The complete Dinoksetiid installation (including downloads) requires ~114 GB of free space. The total download size is ~41 GB, and the installation size is ~73. GB. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which Wabbajack roughly accounts for in the UI. 
+The complete Dinoksetiid installation (including downloads) requires ~139 GB of free space. The total download size is ~56 GB, and the installation size is ~83 GB. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which Wabbajack roughly accounts for in the UI. 
 
 > [!TIP]
 > If the space requirement is uncomfortable, remember that you can delete downloads once the list is successfully installed. You can also set your download location to a different drive than the installation location; more on that later.
