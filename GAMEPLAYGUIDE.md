@@ -112,7 +112,7 @@ Survival is off by default. You can enable it through the gameplay settings menu
 
 [Abjects](https://www.nexusmods.com/skyrimspecialedition/mods/98859) adds 13 new bosses. They are open world, but there is a quest that leads you to each one, showing you the proper order as they do get progressively stronger. You can start the quest by grabbing the note on the table in the starting shack.
 
-There are several added enemies that spawn with leveled lists. You begin to see these as you level higher. There are also several hand-placed enemies. I will leave these for you to discover, but you can always check the [load order](https://loadorderlibrary.com/lists/dinoksetiid).
+There are several added enemies that spawn with leveled lists. You begin to see these as you level higher. At night, ghosts will come out. There are also several hand-placed enemies. I will leave these for you to discover, but you can always check the [load order](https://loadorderlibrary.com/lists/dinoksetiid).
 
 Dino also includes 12 custom NPCs as ways to distribute unique armor sets. They're kind of out of the way, in interiors. These NPCs are not meant to be fully fleshed-out bosses; they're more like high level bandits.
 
