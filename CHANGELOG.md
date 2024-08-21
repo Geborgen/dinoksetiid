@@ -24,7 +24,7 @@
 - Reduced XP gain from exploring & reading
 - Properly patched & increased XP gain from killing enemies
 - Reverted Imperial passive effect to vanilla (Imperial Luck) (you still gain additional starting perk points)
-- The dragon priests now use Humanoid Dragon Priests
+- The dragon priests now use Humanoid Dragon Priests behavior
 - Buffed Precision weapon reach
 - Disabled static hit recoil
 - Changed TDM combat camera to vanilla style
