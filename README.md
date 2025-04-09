@@ -143,7 +143,7 @@ If you have an NVIDIA graphics card, please perform the following steps to incre
 
 #### Steam Setup
 
-Dinoksetiid only works with the Steam version of Skyrim. Additionally, it will only work with English versions of the game as well. While this may be understandably frustrating for users with different game versions or non-English speakers, there are major differences between game versions and I am only able to support one language.
+Dinoksetiid only works with the Steam version of Skyrim. Additionally, it will only work with English versions of the game. While this may be understandably frustrating for users with different game versions or non-English speakers, there are major differences between game versions and I am only able to support one language.
 
 A non-English version of the game will cause problems later. To verify that your game is in English, please perform the following steps:
 1. Right click on Skyrim in Steam
